@@ -19,3 +19,9 @@ body {
 .navbar-inverse .navbar-brand {
 	color:white;
 }
+
+div.links {
+	display:inline;
+	list-style-type: none;
+	text-align:center;
+}
